@@ -67,7 +67,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         Use this tool to figure out which words can be the Wordle solution!
         <br></br>
         <a
-          href="https://github.com/cwackerfuss/react-wordle"
+          href="https://github.com/jwu2019/wordle-helper"
           className="font-bold underline"
         >
           Check out the source code here!
